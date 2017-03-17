@@ -1,7 +1,7 @@
 #stingy-pademelon 
 
 Rhonda Smith
-Thomas Dunn
+Jacky Bouier
 
 
 # Core Vanilla JavaScript - Team Practice - 1
@@ -17,10 +17,10 @@ Exercism provides a number of practice problems along with unit tests to ensure 
 
 ### Day 1 - Exercism
 
-- [ ] Solve `/exercism/hamming`
+- [X] Solve `/exercism/hamming`
 - [ ] Solve `/exercism/diamond`
-- [ ] Solve `/exercism/bracket-push`
-- [ ] Solve `/exercism/ocr-numbers`
+- [X] Solve `/exercism/bracket-push`
+- [X] Solve `/exercism/ocr-numbers`
 - [ ] Solve `/exercism/bowling`
 
 #### Stretch
@@ -41,11 +41,11 @@ Exercism provides a number of practice problems along with unit tests to ensure 
 ### Day 2 - Exercism
 
 - [ ] Solve `/exercism/secret-handshake`
-- [ ] Solve `/exercism/wordy`
+- [X] Solve `/exercism/wordy`
 - [ ] Solve `/exercism/largest-series-product`
 - [ ] Solve `/exercism/robot-simulator`
-- [ ] Solve `/exercism/rna-transcription`
-- [ ] Solve `/exercism/bob`
+- [X] Solve `/exercism/rna-transcription`
+- [X] Solve `/exercism/bob`
 
 
 #### Stretch
