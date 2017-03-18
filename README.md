@@ -62,7 +62,7 @@ Exercism provides a number of practice problems along with unit tests to ensure 
 - [ ] Solve `/exercism/kindergarten-garden`
 - [ ] Solve `/exercism/nth-prime`
 - [ ] Solve `/exercism/palindrome-products`
-- [ ] Solve `/exercism/say`
+- [X] Solve `/exercism/say`
 - [ ] Solve `/exercism/queen-attack`
 
 #### Stretch
