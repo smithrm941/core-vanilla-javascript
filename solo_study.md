@@ -2,35 +2,29 @@
 
 A day-by-day structured deep dive into the basics JavaScript. Read articles, watch videos, complete lessons and exercises, and implement a final project.
 
-## Day 1: Variables, Flow control, and Functions
+## Day 1: Variables, Flow Control, and Functions
 
-Your objectives for the day is to achieve:
+Your objectives for the day are to achieve:
 
 - Basic understanding of variables
-- Basic string and array manipulation
+- Basic string manipulation
 - Understand 'truthy' and 'falsey'
-- Understand literal notation
-- Understand dot bracket notation
-- Basic understanding of JSON
-- Understand Operator precedence
-- Practice Flow control: iteration, if, switch, while, for loops
-- Understand and practice Functions: arguments, arity, return, scope
+- Practice flow control with conditionals
+- Understand and practice functions: arguments, return, scope
 
 ### Plan
 
-- [ ] Signup for [Udacity Javascript Basics][udacity]
-- [ ] Complete [Getting up and running & Problem Set 0][udacity]
-- [ ] Complete [Data Types and Problem Set 1][udacity]
-- [ ] Complete [Flow Control and Problem Set 2][udacity]
-- [ ] Complete [Quiz: Relationships][udacity]
-- [ ] Complete [Quiz: Astronaut Arrays][udacity]
-- [ ] Complete [Quiz: Pagespeed Insights][udacity]
-
+- [ ] Sign up for [Treehouse JavaScript Basics][treehouse-js-basics] course
+- [ ] Complete "Introducing JavaScript"
+- [ ] Complete "Storing and Tracking Information with Variables"
+- [ ] Complete "Working With Numbers"
+- [ ] Complete "Making Decisions with Conditional Statements"
+- [ ] Complete "Creating Reusable Code with Functions"
+- [ ] Read about ["Truthy"](https://developer.mozilla.org/en-US/docs/Glossary/Truthy) and ["Falsey"](https://developer.mozilla.org/en-US/docs/Glossary/Falsy) values in this article: https://j11y.io/javascript/truthy-falsey/
 
 ### Stretch
 
 - [ ] Skim [You don't know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch1.md#practice) and complete the final challenge
-- [ ] Complete [Final Project][udacity]
 - [ ] Watch and complete the [Front End Masters Javascript Introduction](https://frontendmasters.com/courses/javascript-basics/) (2 hours)
 - [ ] Watch the bootcamp videos in the [Core Vanilla Javascript](https://shereef.wistia.com/projects/fwy60ilf20) section
 - [ ] Read Chapters 1,2,3 of [Eloquent Javascript][el]
@@ -39,8 +33,7 @@ Your objectives for the day is to achieve:
 
 ## Day 2: Arrays, Objects, and lots of Practice
 
-
-Today you objectives are to put in practice the concepts you learned yesterday. It's a good opportunity to practice researching, asking for help, basic debugging, and problem solving. You will
+Today your objectives are to put in practice the concepts you learned yesterday. It's a good opportunity to practice researching, asking for help, basic debugging, and problem solving. You will
 
 - Complete other beginner javascript tutorials
 - Dive deeper into Arrays and Objects
@@ -54,7 +47,7 @@ Today you objectives are to put in practice the concepts you learned yesterday. 
   - [ ] Link to your solution here (jsbin, gist, or a js file in this repo)
 - [ ] Complete the last 5 tasks of [Arrays Tutorial](https://learn.javascript.info/array)
  - [ ] Link to your solution here
-- [ ] Complete the last 5 tasks of [Array Methods](https://learn.javascript.info/array)
+- [ ] Complete the last 5 tasks of [Array Methods](https://learn.javascript.info/array-methods)
  - [ ] Link to your solution here
 - [ ] Complete the [Learn JS Basics tutorial](http://www.learn-js.org/en/Welcome)
 - [ ] Complete the [Learn JS Objects tutorial](http://www.learn-js.org/en/Object_Oriented_JavaScript)
@@ -80,7 +73,7 @@ Today you objectives are to put in practice the concepts you learned yesterday. 
 
 - [ ] Complete [Free Code Camp Basic Javascript](https://www.freecodecamp.com/map-aside#nested-collapseBasicJavaScript)
 - [ ] Read [Javascript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
-- [ ] Watch the first 11 - [ ] Watch the first 11 [Fundamentals Videos](https://channel9.msdn.com/Series/JavaScript-Fundamentals-Development-for-Absolute-Beginners)
+- [ ] Watch the first 11 [Fundamentals Videos](https://channel9.msdn.com/Series/JavaScript-Fundamentals-Development-for-Absolute-Beginners)
 - [ ] Read pages 173 to 184 in [Professional JS for Web Developers][projs]
 - [ ] Signup for a free Team Treehouse trial and complete their [Object Oriented Javascript Course] (https://teamtreehouse.com/library/objectoriented-javascript)
 - [ ] Skim this [cheat sheet][cheat]
@@ -181,7 +174,7 @@ Today is going to be a tough one. These challenges are tricky, and will need you
 
 
 [el]:http://eloquentjavascript.net/
-[udacity]:https://www.udacity.com/course/javascript-basics--ud804
+[treehouse-js-basics]: https://teamtreehouse.com/library/javascript-basics
 [projs]:ftp://ftp.micronet-rostov.ru/linux-support/books/programming/JavaScript/Wrox.Professional.JavaScript.for.Web.Developers.3rd.Edition.Jan.2012.pdf
 [ninja]:https://github.com/GuildCrafts/core-object-oriented-javascript/raw/master/Books/Secrets%20of%20the%20JavaScript%20Ninja%20-%20John%20Resig%20and%20Bear%20Bibeault%20-%20December%202012.pdf
 [cheat]:https://github.com/GuildCrafts/core-object-oriented-javascript/raw/master/Books/Objects-Cheat-Sheet.pdf
